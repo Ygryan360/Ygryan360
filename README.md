@@ -1,6 +1,6 @@
 # Hello, I'm Rayane Tchabodi (aka Young Ryan)
 
-- I'm a Full Stack web developper 
+- I'm a Full Stack web developer 
 
 ## 🛠️ Skills & Tools
 <p align="center">
