@@ -3,11 +3,7 @@
 - I'm a Full Stack web developer 
 
 ## 🛠️ Skills & Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,php,laravel,nodejs,nextjs,ts,python,npm,tailwind,react,vite,vscode,bash,bun,css,express,figma,js,linux,mysql,mongodb,postman,postgres" />
-  </a>
-</p>
+![](https://skillicons.dev/icons?i=git,github,php,laravel,nodejs,nextjs,ts,python,npm,tailwind,react,vite,vscode,bash,bun,css,express,figma,js,linux,mysql,mongodb,postman,postgres")
 
 ## 📈 GitHub Stats
 
