@@ -3,7 +3,7 @@
 - I'm a Full Stack web developer 
 
 ## 🛠️ Skills & Tools
-![](https://skillicons.dev/icons?i=git,github,php,laravel,nodejs,nextjs,ts,python,npm,tailwind,bootstrap,react,vite,vscode,bash,bun,css,html,express,figma,js,linux,mysql,mongodb,postman,postgres")
+![](https://skillicons.dev/icons?i=git,github,php,laravel,nodejs,nextjs,ts,python,npm,tailwind,bootstrap,react,vite,vscode,bash,bun,css,html,express,figma,js,linux,mysql,mongodb,postman,postgres,ubuntu,sublime,stackoverflow,sqlite,regex,phpstorm,debian,md,netlify")
 
 ## 📈 GitHub Stats
 
